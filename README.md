@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on technology companies
 - 🤔 I’m looking for help with java
 - 💬 Ask me about html/css and python
-- 📫 How to reach me: br.linkedin.com/in/daniel-corte-1200b0224?trk=people-guest_people_search-card
+- 📫 How to reach me: in/daniel-corte-1200b0224
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love play games and work out 🎮💪
 
