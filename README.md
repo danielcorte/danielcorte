@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **DanielCorte/DanielCorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: br.linkedin.com/in/daniel-corte-1200b0224?trk=people-guest_people_search-card
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love play games and work out 🎮💪
--->
+
