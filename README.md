@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**DanielCorte/DanielCorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**DanielCorte/DanielCorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on backend projects
 - 🌱 I’m currently learning javascript and nodejs
