@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-<!--**DanielCorte/DanielCorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! I am Daniel Corte 🤠
 
-Here are some ideas to get you started:-->
-
-- 🔭 I’m currently working on backend projects
-- 🌱 I’m currently learning javascript and nodejs
-- 👯 I’m looking to collaborate on technology companies
-- 🤔 I’m looking for help with java
-- 💬 Ask me about html/css and python
-- 📫 How to reach me: in/daniel-corte-1200b0224
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love play games and work out 🎮💪
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniel-corte-1200b0224)
+[![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCorte&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DanielCorte/github-readme-stats#gh-light-mode-only)
