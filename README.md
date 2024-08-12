@@ -4,7 +4,7 @@
 
 # [Daniel Corte]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](http://linkedin.com/in/daniel-corte-1200b0224)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Daniel Corte]-blue?logo=linkedin)](http://linkedin.com/in/daniel-corte-1200b0224)
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Hello!
