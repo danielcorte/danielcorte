@@ -4,8 +4,6 @@
 
 [![Daniel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DanielCorte&show_icons=true&theme=dark)](https://github.com/DanielCorte/github-readme-stats)
 
-[![card](https://github-readme-stats.vercel.app/api?username=danielcorte&theme=dracula)](https://github.com/danielcorte/github-readme-stats)
-
 ### Technologies I use in my day
 <div><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
