@@ -5,7 +5,7 @@
 [![Daniel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DanielCorte&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DanielCorte/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCorte&layout=compact)
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=Dracula)](https://github.com/danielcorte/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=danielcorte&theme=Dracula)](https://github.com/danielcorte/github-readme-stats)
 
 ### Technologies I use in my day
 <div><br/>
