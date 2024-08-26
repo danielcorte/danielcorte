@@ -5,7 +5,7 @@
 # {Daniel Corte}
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://linkedin.com/in/daniel-corte-1200b0224)
-[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
+[![Portfolio](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[danielcorte.github.io/projeto-portfolio])
 
 ## 👋 Hello!
 
