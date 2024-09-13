@@ -9,7 +9,7 @@
 
 ## 👋 Hello!
 
-I am a developer passionate about technology, focused on creating innovative and impactful solutions. With a solid background in programming and a curious mind, I am always looking for new challenges to expand my knowledge and skills.
+I am a developer passionate about technology, focused on creating innovative and impactful solutions. With a solid background in programming and a curious mind, I am always looking for new challenges to expand my knowledge and skills!
 
 ## 🚀 Technical Skills
 
