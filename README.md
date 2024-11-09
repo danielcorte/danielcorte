@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://linkedin.com/in/daniel-corte-1200b0224)
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?logo=google-chrome)](https://danielcorte.github.io/projeto-portfolio/)
-[![StackOverflow](https://img.shields.io/badge/)](https://pt.stackoverflow.com/users/320601/daniel-corte)
+[![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://pt.stackoverflow.com/users/320601/daniel-corte)
 
 ## 👋 Hello!
 
@@ -32,9 +32,8 @@ I am a developer passionate about technology, focused on creating innovative and
 
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
+- [Vidas Conectadas](https://github.com/vidas-conectadas): A system to support blood donation
+- [Drive Tech](https://github.com/drivetech-dev): Platform for scheduling appointments for automotive parts
 
 
 Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you! 😊
