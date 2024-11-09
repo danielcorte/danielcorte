@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://linkedin.com/in/daniel-corte-1200b0224)
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?logo=google-chrome)](https://danielcorte.github.io/projeto-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/StackOverFlow)](https://pt.stackoverflow.com/users/320601/daniel-corte)
+[![StackOverflow](https://img.shields.io/badge/StackOverFlow)](https://pt.stackoverflow.com/users/320601/daniel-corte)
 
 ## 👋 Hello!
 
