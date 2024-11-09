@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://linkedin.com/in/daniel-corte-1200b0224)
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?logo=google-chrome)](https://danielcorte.github.io/projeto-portfolio/)
-<a href="https://pt.stackoverflow.com/users/320601/daniel-corte"><img src="https://pt.stackoverflow.com/users/flair/320601.png" width="208" height="58" alt="perfil de Daniel Corte em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Daniel Corte em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
+[![LinkedIn](https://img.shields.io/badge/StackOverFlow)](https://pt.stackoverflow.com/users/320601/daniel-corte)
 
 ## 👋 Hello!
 
