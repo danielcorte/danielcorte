@@ -5,7 +5,7 @@
 # {Daniel Corte}
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniel-corte-1200b0224)
-[![Portfolio](https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?Portfolio)](https://danielcorte.github.io/projeto-portfolio/)
+[![Portfolio](https://img.shields.io/badge/%27Portfolio-20B2AA?style=for-the-badge)](https://danielcorte.github.io/projeto-portfolio/)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://pt.stackoverflow.com/users/320601/daniel-corte)
 
 ## 👋 Hello!
