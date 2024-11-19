@@ -32,8 +32,8 @@ I am a developer passionate about technology, focused on creating innovative and
 
 ## 🏆 Projetos Destacados
 
-- [Vidas Conectadas](https://github.com/vidas-conectadas): A system to support blood donation
-- [Drive Tech](https://github.com/drivetech-dev): Platform for scheduling appointments for automotive parts
+- [Vidas Conectadas](https://github.com/vidas-conectadas): A system to support blood donation.
+- [Drive Tech](https://github.com/drivetech-dev): Platform for scheduling appointments for automotive parts.
 
 
 Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you! 😊
