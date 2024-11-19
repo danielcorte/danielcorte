@@ -36,7 +36,7 @@ I am a developer passionate about technology, focused on creating innovative and
 - [Drive Tech](https://github.com/drivetech-dev): Platform for scheduling appointments for automotive parts.
 
 
-Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you! 😊
+Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you!😊
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danielcorte&theme=aura_dark&hide_border=true)<br/>
