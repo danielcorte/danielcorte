@@ -29,7 +29,7 @@ I am a developer passionate about technology, focused on creating innovative and
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse)](https://skillicons.dev)
 - Web Development:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,tailwind)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
