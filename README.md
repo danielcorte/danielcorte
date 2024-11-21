@@ -1,10 +1,6 @@
 <div align="center">
-  <video width="640" height="360" controls>
-    <source src="https://media.istockphoto.com/id/1226413184/pt/v%C3%ADdeo/4k-programming-and-coding.mp4?s=mp4-640x640-is&k=20&c=koV7ncm6Q3p7yq3VNVotn525ZkxgHaclNsrmLcaeFxc=" type="video/mp4">
-    Seu navegador não suporta a reprodução de vídeos.
-  </video>
+  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
-
 
 
 # {Daniel Corte}
