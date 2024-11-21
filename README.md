@@ -23,10 +23,10 @@ I am a developer passionate about technology, focused on creating innovative and
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
 - Database: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgreesql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql)](https://skillicons.dev)
 - Tools and Technologies: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intelliJ)](https://skillicons.dev)
 - Web Development:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,tailwind)](https://skillicons.dev)
