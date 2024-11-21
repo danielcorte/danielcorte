@@ -26,8 +26,8 @@ I am a developer passionate about technology, focused on creating innovative and
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql)](https://skillicons.dev)
 - Tools and Technologies: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,vscode,pycharm)](https://skillicons.dev)<br/>
-  [![My Skills](https://skillicons.dev/icons?i=figma,postman,intellij)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,vscode,docker)](https://skillicons.dev)<br/>
+  [![My Skills](https://skillicons.dev/icons?i=figma,postman,idea)](https://skillicons.dev)
 - Web Development:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,tailwind)](https://skillicons.dev)
