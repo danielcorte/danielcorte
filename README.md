@@ -46,6 +46,7 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorte&card_width=500&card_height=210&hide_border=true&theme=dark&hide_progress=true)
 
 <div style="display: flex; justify-content: center; width: 100;">
+  <h2>Thank you and come back often</h2>
   <img src="https://github.com/user-attachments/assets/c8ac1d9c-398d-4d90-8ddc-018998883bb8" alt="Jin-woo" width="500" height="250">
 </div>
 
