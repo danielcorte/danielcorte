@@ -40,9 +40,7 @@ I am a developer passionate about technology, focused on creating innovative and
 
 Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you!😊
 ## 📊 GitHub Stats:
-![Jin-woo]([[https://i.imgur.com/TGUdgvw.mp4](https://imgur.com/gallery/solo-leveling-gif-TGUdgvw)](https://pin.it/CDYXqLtwZ))
-
-
+![image](https://github.com/user-attachments/assets/c8ac1d9c-398d-4d90-8ddc-018998883bb8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorte&card_width=500&card_height=210&hide_border=true&theme=dark&hide_progress=true)<br/>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true)
