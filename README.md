@@ -42,5 +42,4 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorte&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danielcorte&theme=whatsapp-dark2&hide_border=true&border_radius=26&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
