@@ -41,8 +41,8 @@ I am a developer passionate about technology, focused on creating innovative and
 Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you!😊
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorte&card_width=300&card_height=210&hide_border=true&theme=dark&hide_progress=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorte&card_width=500&card_height=210&hide_border=true&theme=dark&hide_progress=true)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 <div align="center">
