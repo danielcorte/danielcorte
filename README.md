@@ -40,7 +40,8 @@ I am a developer passionate about technology, focused on creating innovative and
 
 Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you!😊
 ## 📊 GitHub Stats:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielcorte&card_width=500&card_height=210&hide_border=true&theme=dark)](https://github.com/danielcorte/github-readme-stats)
+<div class="tenor-gif-embed" data-postid="22367923" data-share-method="host" data-aspect-ratio="1.77778" data-width="500" data-height="210"><a href="https://tenor.com/view/jin-woo-gif-22367923">Jin Woo GIF</a>from <a href="https://tenor.com/search/jin+woo-gifs">Jin Woo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorte&card_width=500&card_height=210&hide_border=true&theme=dark&hide_progress=true)<br/>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
