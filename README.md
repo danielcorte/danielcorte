@@ -8,7 +8,7 @@
 # {Daniel Corte}
 
 ## Access my portfolio below: 
-![portfolio]((https://github.com/user-attachments/assets/85923e9e-7e87-4c91-82a9-50601f78133f)https://danielcorte.github.io/projeto-portfolio/)
+![portfolio](https://github.com/user-attachments/assets/85923e9e-7e87-4c91-82a9-50601f78133f)
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://danielcorte.github.io/projeto-portfolio/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniel-corte-1200b0224)
