@@ -16,23 +16,22 @@ I am a developer passionate about technology, focused on creating innovative and
 ## 🚀 Technical Skills
 
 - Programming Languages: 
-
     [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+  
 - Frameworks and Libraries: 
-
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+  
 - Database: 
-
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql)](https://skillicons.dev)
+  
 - Tools and Technologies: 
-
     [![My Skills](https://skillicons.dev/icons?i=git,vscode,docker)](https://skillicons.dev)<br/>
-  [![My Skills](https://skillicons.dev/icons?i=figma,postman,idea)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=figma,postman,idea)](https://skillicons.dev)
+  
 - Web Development:
-
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,tailwind)](https://skillicons.dev)
 
-## 🏆 Projetos Destacados
+## 🏆 Featured Projects
 
 - [Vidas Conectadas](https://github.com/vidas-conectadas): A system to support blood donation.
 - [Drive Tech](https://github.com/drivetech-dev): Platform for scheduling appointments for automotive parts.
@@ -47,6 +46,9 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c8ac1d9c-398d-4d90-8ddc-018998883bb8" alt="Jin-woo" width="500" height="250">
+
+  ![](https://github.com/user-attachments/assets/f4e57fe9-f9bd-4246-8c5d-6cf27b4f290b)
+
   <h2>Thank you and come back often</h2>
 </div>
 
