@@ -1,6 +1,7 @@
 <div align="center">
   
   ![](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8)
+  <h2>Welcome to my profile</h2>
 </div>
 
 
@@ -41,15 +42,13 @@ I am a developer passionate about technology, focused on creating innovative and
 Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you!😊
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorte&card_width=500&card_height=210&hide_border=true&theme=dark&hide_progress=true)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=370&card_height=210&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=370&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 <div align="center">
-
-  ![](https://github.com/user-attachments/assets/f4e57fe9-f9bd-4246-8c5d-6cf27b4f290b)
-
   <h2>Thank you and come back often</h2>
+  
+  ![Nagi score](https://github.com/user-attachments/assets/00ec225c-a388-4d7c-84aa-45cd675b024a)
 </div>
 
 
