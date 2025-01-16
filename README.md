@@ -3,7 +3,8 @@
   ![](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8)
   <h2>👨‍💻 {Daniel Corte} 👨‍💻</h2> 
 </div>
-  ### Working as a software developer and computer science student
+
+### Working as a software developer and computer science student
 
 ![portfolio](https://github.com/user-attachments/assets/85923e9e-7e87-4c91-82a9-50601f78133f)
 ## Access my portfolio above by clicking here: 
