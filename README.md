@@ -9,12 +9,11 @@
 <h3>👋 Hello!</h3>
 <h3>🔍🧠 I am a developer passionate about technology, focused on creating innovative and impactful solutions. With a solid background in programming and a curious mind, I am always looking for new challenges to expand my knowledge and skills! </h3>
 
-
-![portfolio](https://github.com/user-attachments/assets/85923e9e-7e87-4c91-82a9-50601f78133f)
-## 🌐📑🔗 Access my portfolio above by clicking here: 
+![Portfolio](https://github.com/user-attachments/assets/6dee6f7f-dbd7-4100-a79f-f5f3a9cbb13b)
+## 🌐📑 Access my portfolio above by clicking here: 
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://danielcorte.github.io/projeto-portfolio/)
 
-### 🌍📱🔗 Other social networks
+## 🌍📱 Other social networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniel-corte-1200b0224)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://pt.stackoverflow.com/users/320601/daniel-corte)
 
