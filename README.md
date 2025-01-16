@@ -1,16 +1,15 @@
 
 <div align="center">
   
-  ![](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8)
-  <h2>👨‍💻 {Daniel Corte} 👨‍💻</h2> 
-  <h3>💻👨‍💻📚 Working as a software developer and computer science student</h3>
+  ![Igris show up](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8) 
+  <h3>👨‍💻 Working as a software developer and computer science student</h3>
 </div>
 
 ![Portfolio](https://github.com/user-attachments/assets/6dee6f7f-dbd7-4100-a79f-f5f3a9cbb13b)
-## 🌐📑 Access my portfolio above by clicking here: 
+## 📑 Access my portfolio above by clicking here: 
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://danielcorte.github.io/projeto-portfolio/)
 
-## 🌍📱 Other social networks
+## 🌐 Other social networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniel-corte-1200b0224)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://pt.stackoverflow.com/users/320601/daniel-corte)
 
@@ -24,6 +23,8 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 
 - [Vidas Conectadas](https://github.com/vidas-conectadas): A system to support blood donation.
 - [Drive Tech](https://github.com/drivetech-dev): Platform for scheduling appointments for automotive parts.
+- [CTech](https://github.com/drivetech-dev): E-commerce for cell phones, notebooks and peripherals.
+- [CMS](https://github.com/class-management-system): Teacher and class management system
 
 ## 🚀 Technical Skills
 
@@ -45,7 +46,7 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,tailwind)](https://skillicons.dev)
 
 <div align="center">
-  <h2>Thank you and come back often</h2>
+  <h2>😁 Thank you and come back often</h2>
   
   ![Nagi score](https://github.com/user-attachments/assets/81057525-73b7-4db6-80e4-d4190cc159b9)
 </div>
