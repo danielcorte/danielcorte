@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+  ![Igris](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8)
 </div>
 
 
@@ -45,7 +45,6 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=500&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c8ac1d9c-398d-4d90-8ddc-018998883bb8" alt="Jin-woo" width="500" height="250">
 
   ![](https://github.com/user-attachments/assets/f4e57fe9-f9bd-4246-8c5d-6cf27b4f290b)
 
