@@ -1,21 +1,21 @@
+## 👋 Hello!
+
+💡💻 I am a developer passionate about technology, focused on creating innovative and impactful solutions. With a solid background in programming and a curious mind, I am always looking for new challenges to expand my knowledge and skills! 🔍🧠
+
 <div align="center">
   <h2>👨‍💻 {Daniel Corte} 👨‍💻</h2> 
   
   ![](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8)
-  <h3>Working as a software developer and computer science student</h3>
+  <h3>💻👨‍💻📚 Working as a software developer and computer science student</h3>
 </div>
 
 ![portfolio](https://github.com/user-attachments/assets/85923e9e-7e87-4c91-82a9-50601f78133f)
-## Access my portfolio above by clicking here: 
+## 🌐📑🔗 Access my portfolio above by clicking here: 
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://danielcorte.github.io/projeto-portfolio/)
 
-### Other social networks
+### 🌍📱🔗 Other social networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniel-corte-1200b0224)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://pt.stackoverflow.com/users/320601/daniel-corte)
-
-## 👋 Hello!
-
-I am a developer passionate about technology, focused on creating innovative and impactful solutions. With a solid background in programming and a curious mind, I am always looking for new challenges to expand my knowledge and skills!
 
 ## 🚀 Technical Skills
 
