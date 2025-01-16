@@ -1,18 +1,14 @@
 <div align="center">
   
   ![](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8)
-  <h2>Welcome to my profile</h2>
+  # {Daniel Corte}
 </div>
-
-
-# {Daniel Corte}
 
 ## Access my portfolio below: 
 ![portfolio](https://github.com/user-attachments/assets/85923e9e-7e87-4c91-82a9-50601f78133f)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://danielcorte.github.io/projeto-portfolio/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniel-corte-1200b0224)
-
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://pt.stackoverflow.com/users/320601/daniel-corte)
 
 ## 👋 Hello!
