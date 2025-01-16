@@ -1,7 +1,8 @@
 <div align="center">
   
   ![](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8)
-  # {Daniel Corte}
+  # 👨‍💻 {Daniel Corte} 👨‍💻
+  <h3>Working as a software developer and computer science student</h3>
 </div>
 
 ![portfolio](https://github.com/user-attachments/assets/85923e9e-7e87-4c91-82a9-50601f78133f)
