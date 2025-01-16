@@ -46,10 +46,10 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=370&card_height=210&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=370&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<div align="center" width="450" height="373">
+<div align="center">
   <h2>Thank you and come back often</h2>
   
-  ![Nagi score](https://github.com/user-attachments/assets/00ec225c-a388-4d7c-84aa-45cd675b024a)
+  ![Nagi score](https://github.com/user-attachments/assets/81057525-73b7-4db6-80e4-d4190cc159b9)
 </div>
 
 
