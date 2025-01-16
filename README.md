@@ -6,9 +6,6 @@
   <h3>💻👨‍💻📚 Working as a software developer and computer science student</h3>
 </div>
 
-<h3>👋 Hello!</h3>
-<h3>🔍🧠 I am a developer passionate about technology, focused on creating innovative and impactful solutions. With a solid background in programming and a curious mind, I am always looking for new challenges to expand my knowledge and skills! </h3>
-
 ![Portfolio](https://github.com/user-attachments/assets/6dee6f7f-dbd7-4100-a79f-f5f3a9cbb13b)
 ## 🌐📑 Access my portfolio above by clicking here: 
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://danielcorte.github.io/projeto-portfolio/)
