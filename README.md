@@ -17,20 +17,21 @@ I am a developer passionate about technology, focused on creating innovative and
 
 ## 🚀 Technical Skills
 
-- Programming Languages: 
+- Programming Languages:
+  
     [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+- Frameworks and Libraries:
   
-- Frameworks and Libraries: 
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+- Database:
   
-- Database: 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql)](https://skillicons.dev)
+- Tools and Technologies:
   
-- Tools and Technologies: 
     [![My Skills](https://skillicons.dev/icons?i=git,vscode,docker)](https://skillicons.dev)<br/>
     [![My Skills](https://skillicons.dev/icons?i=figma,postman,idea)](https://skillicons.dev)
-  
 - Web Development:
+  
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,tailwind)](https://skillicons.dev)
 
 ## 🏆 Featured Projects
@@ -45,7 +46,7 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=370&card_height=210&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=370&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<div align="center">
+<div align="center" width="450" height="373">
   <h2>Thank you and come back often</h2>
   
   ![Nagi score](https://github.com/user-attachments/assets/00ec225c-a388-4d7c-84aa-45cd675b024a)
