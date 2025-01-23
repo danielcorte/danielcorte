@@ -18,7 +18,7 @@
 Please feel free to contact me to discuss collaboration opportunities, interesting projects, or anything else related to software development. I look forward to hearing from you!😊
 ## 📊 GitHub Stats:
 
-
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=400&card_height=210&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=370&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ## 🏆 Featured Projects
