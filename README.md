@@ -11,7 +11,7 @@
 ## 📑 Access my portfolio above by clicking here: 
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://danielcorte.github.io/projeto-portfolio/)
 
-## 🌐 Other social networks
+## 🌐 Other social networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/daniel-corte-1200b0224)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://pt.stackoverflow.com/users/320601/daniel-corte)
 
