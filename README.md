@@ -26,7 +26,7 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 - [Vidas Conectadas](https://github.com/vidas-conectadas): A system to support blood donation.
 - [Drive Tech](https://github.com/drivetech-dev): Platform for scheduling appointments for automotive parts.
 - [CTech](https://github.com/drivetech-dev): E-commerce for cell phones, notebooks and peripherals.
-- [CMS](https://github.com/class-management-system): Teacher and class management system
+- [CMS](https://github.com/class-management-system): Teacher and class management system.
 
 ## 🚀 Technical Skills
 
