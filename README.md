@@ -21,7 +21,7 @@ Please feel free to contact me to discuss collaboration opportunities, interesti
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielcorte&card_width=400&card_height=210&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=danielcorte&card_width=370&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects: 
 
 - [Vidas Conectadas](https://github.com/vidas-conectadas): A system to support blood donation.
 - [Drive Tech](https://github.com/drivetech-dev): Platform for scheduling appointments for automotive parts.
