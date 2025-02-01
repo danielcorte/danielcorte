@@ -4,7 +4,7 @@
   ![Igris show up](https://github.com/user-attachments/assets/71650646-b0b4-4b71-9858-3124d44389e8) 
 </div>
 
-### 👨‍💻 Always focused on my goals and disciplined in relation to my tasks, I love learning and challenging myself every day.
+### 👨‍💻 Always focused on my goals, and disciplined in relation to my tasks, I love learning and challenging myself every day.
 
 
 ![Portfolio](https://github.com/user-attachments/assets/6dee6f7f-dbd7-4100-a79f-f5f3a9cbb13b)
